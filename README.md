@@ -1,8 +1,8 @@
 ## Hi there 👋
-
+I'm Ken Yoshimoto. My email address is kenyoshimotoo281@outlook.com
 <!--
 **kenyoshi1994/kenyoshi1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-I'm Ken Yoshimoto. My email address is kenyoshimotoo281@outlook.com
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
